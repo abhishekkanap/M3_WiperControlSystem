@@ -11,7 +11,7 @@
 | C/C++ CI | [![C/C++ CI](https://github.com/abhishekkanap/M2_VehicleSeatTemperatureControllingSystem/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/abhishekkanap/M2_VehicleSeatTemperatureControllingSystem/actions/workflows/c-cpp.yml) |
 | Valgrind | [![Valgrind](https://github.com/abhishekkanap/M2_VehicleSeatTemperatureControllingSystem/actions/workflows/valgrind_check.yml/badge.svg)](https://github.com/abhishekkanap/M2_VehicleSeatTemperatureControllingSystem/actions/workflows/valgrind_check.yml) |
 | Codacy | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/67cc523f9cc749afa61a8ee8f22c50e5)](https://www.codacy.com/gh/abhishekkanap/M2_VehicleSeatTemperatureControllingSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abhishekkanap/M2_VehicleSeatTemperatureControllingSystem&amp;utm_campaign=Badge_Grade) |
-| Codiga | ![Code Quality Score](https://api.codiga.io/project/33089/score/svg)  ![Code Grade](https://api.codiga.io/project/33089/status/svg) |
+| Codiga | ![Code Quality Score](https://api.codiga.io/project/33501/score/svg)  ![Code Grade](https://api.codiga.io/project/33501/status/svg) |
 
 
 ## Folder Structure
