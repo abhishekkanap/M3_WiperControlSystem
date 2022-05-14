@@ -101,7 +101,7 @@ It is implemented with the help of STM32 with the desired operation of turning o
 ## Flow chart
 ![](https://github.com/abhishekkanap/M2_VehicleSeatTemperatureControllingSystem/blob/862960bcad2a7888f4481df7a3ac0a4addff5358/2_Architecture/Flow_Chart.jpg)
 
-# Images and Videos :
+# Images :
 ## Simulation Diagram
 ![](https://github.com/abhishekkanap/M2_VehicleSeatTemperatureControllingSystem/blob/e5f9519f4530753fe126f34b62559c19980d9992/6_ImagesAndVideos/Simulation_Diagram.png)
 ## Simulation Video
