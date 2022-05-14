@@ -94,15 +94,25 @@ It is implemented with the help of STM32 with the desired operation of turning o
 | LR_04	|Button pressed fourth time | 8 Hz speed - Blue, Green Orange alternative |	Implemented |
 | LR_05 |	Button pressed again for two seconds |Turn Off all LEDs |	Implemented |
 
-# Architecture :
+# ARCHITECTURE:
 
 ## Block Diagram
-![](https://github.com/abhishekkanap/M2_VehicleSeatTemperatureControllingSystem/blob/862960bcad2a7888f4481df7a3ac0a4addff5358/2_Architecture/Block_Diagram.jpg)
+![]( )
 ## Flow chart
-![](https://github.com/abhishekkanap/M2_VehicleSeatTemperatureControllingSystem/blob/862960bcad2a7888f4481df7a3ac0a4addff5358/2_Architecture/Flow_Chart.jpg)
+![]( )
 
-# Images :
-## Simulation Diagram
-![](https://github.com/abhishekkanap/M2_VehicleSeatTemperatureControllingSystem/blob/e5f9519f4530753fe126f34b62559c19980d9992/6_ImagesAndVideos/Simulation_Diagram.png)
-## Simulation Video
-https://user-images.githubusercontent.com/90414155/164933862-cb33fb13-7d7c-4836-8da8-c5394b176cb3.mp4
+# OUTPUT :
+## ENGINE OFF STATE :
+![](https://github.com/abhishekkanap/M3_WiperControlSystem/blob/1eba030885c8f37d5bc4030cc49d9f12442ad2c3/6_Output/ENGINE_OFF_STATE.png)
+
+## ENGINE ON STATE :
+![](https://github.com/abhishekkanap/M3_WiperControlSystem/blob/1eba030885c8f37d5bc4030cc49d9f12442ad2c3/6_Output/ENGINE_ON_STATE.png)
+
+## WIPER STARTS & RUNS AT MODERATE SPEED :
+![](https://github.com/abhishekkanap/M3_WiperControlSystem/blob/1eba030885c8f37d5bc4030cc49d9f12442ad2c3/6_Output/WIPER_STARTS_&_RUNS_AT_MODERATE_SPEED.png)
+
+## WIPER RUNS AT LOW SPEED :
+![](https://github.com/abhishekkanap/M3_WiperControlSystem/blob/1eba030885c8f37d5bc4030cc49d9f12442ad2c3/6_Output/WIPER_RUNS_AT_LOW_SPEED.png)
+
+## WIPER RUNS AT FAST SPEED :
+![](https://github.com/abhishekkanap/M3_WiperControlSystem/blob/1eba030885c8f37d5bc4030cc49d9f12442ad2c3/6_Output/WIPER_RUNS_AT_FAST_SPEED.png)
